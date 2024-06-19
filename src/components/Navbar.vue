@@ -55,21 +55,21 @@
               <a
                 href="#"
                 class="block py-2 px-3 text-indigo-950 rounded md:hover:bg-transparent md:border-0 md:hover:text-indigo-500 md:p-0 dark:text-white md:dark:hover:text-indigo-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                >Work</a
+              >
+            </li>
+            <li>
+              <a
+                href="#"
+                class="block py-2 px-3 text-indigo-950 rounded md:hover:bg-transparent md:border-0 md:hover:text-indigo-500 md:p-0 dark:text-white md:dark:hover:text-indigo-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                >Personal Projects</a
+              >
+            </li>
+            <li>
+              <a
+                href="#"
+                class="block py-2 px-3 text-indigo-950 rounded md:hover:bg-transparent md:border-0 md:hover:text-indigo-500 md:p-0 dark:text-white md:dark:hover:text-indigo-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
                 >About</a
-              >
-            </li>
-            <li>
-              <a
-                href="#"
-                class="block py-2 px-3 text-indigo-950 rounded md:hover:bg-transparent md:border-0 md:hover:text-indigo-500 md:p-0 dark:text-white md:dark:hover:text-indigo-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
-                >Services</a
-              >
-            </li>
-            <li>
-              <a
-                href="#"
-                class="block py-2 px-3 text-indigo-950 rounded md:hover:bg-transparent md:border-0 md:hover:text-indigo-500 md:p-0 dark:text-white md:dark:hover:text-indigo-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
-                >Pricing</a
               >
             </li>
             <li>
